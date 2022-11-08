@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OathClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vg672483
+Implementation-Vendor-Id: com.sprinboot.oath.client
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/OathClient/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
